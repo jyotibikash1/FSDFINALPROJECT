@@ -1,0 +1,17 @@
+com\jbm\springboot\entity\User.class
+com\jbm\springboot\Application.class
+com\jbm\springboot\bo\UserVO.class
+com\jbm\springboot\bo\ProjectVO.class
+com\jbm\springboot\service\impl\ProjectManagerServiceImpl.class
+com\jbm\springboot\repository\TaskManagerRepository.class
+com\jbm\springboot\repository\ProjectManagerRepository.class
+com\jbm\springboot\controller\ProjectManagerController.class
+com\jbm\springboot\bo\TaskVO.class
+com\jbm\springboot\filter\CORSFilter.class
+com\jbm\springboot\repository\ParentTaskManagerRepository.class
+com\jbm\springboot\bo\ParentTaskVO.class
+com\jbm\springboot\entity\Project.class
+com\jbm\springboot\repository\UserManagerRepository.class
+com\jbm\springboot\entity\ParentTask.class
+com\jbm\springboot\service\ProjectManagerService.class
+com\jbm\springboot\entity\Task.class

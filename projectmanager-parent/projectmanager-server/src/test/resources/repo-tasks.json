@@ -1,0 +1,58 @@
+[
+    {
+        "taskId": 1,
+        "taskName": "generate report of tasks",
+        "startDate": "12/01/2018",
+        "endDate": "01/29/2019",
+        "priority": "15",
+        "status": "A",
+        "parentTask": {
+            "parentTaskId": 1,
+            "parentTaskName": "pt create screens",
+            "projectId": "1"
+        },
+        "employeeDetails": {
+            "employeeId": "403774",
+            "firstName": "Jyotibikash",
+            "lastName": "Mahakuda",
+            "status": "A"
+        },
+        "projectDetails": {
+            "projectId": 1,
+            "projectName": "SGFO",
+            "startDate": "12/04/2018",
+       		"endDate": "01/29/2019",
+            "priority": "15",
+            "status": "In-Progress",
+            "managerId": "397538"
+        }
+    },
+    {
+        "taskId": 2,
+        "taskName": "complete the go perform",
+        "startDate": "12/28/2018",
+        "endDate": "01/29/2019",
+        "priority": "30",
+        "status": "A",
+        "parentTask": {
+            "parentTaskId": 2,
+            "parentTaskName": "pt design database scripts",
+            "projectId": "2"
+        },
+        "employeeDetails": {
+            "employeeId": "456206",
+            "firstName": "Thangavel",
+            "lastName": "S",
+            "status": "A"
+        },
+        "projectDetails": {
+            "projectId": 2,
+            "projectName": "MAC Appointment",
+            "startDate": "12/09/2018",
+            "endDate": "01/29/2019",
+            "priority": "17",
+            "status": "In-Progress",
+            "managerId": "287431"
+        }
+    }
+]
