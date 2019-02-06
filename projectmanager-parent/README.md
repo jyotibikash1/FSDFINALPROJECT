@@ -1,4 +1,4 @@
-# FSD-SBA-FINAL-PROJECT:Project Manager
+# FSDFINALPROJECT:Project Manager
 <h2>Associate Name:Jyotibikash Mahakuda</h2>
 <h2>Please refer to the "docs" folder which contain the following sub-folders</h2>
 <ol>
