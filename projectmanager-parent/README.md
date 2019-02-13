@@ -26,6 +26,15 @@
 <li>See log and hit URL to check application http://localhost:8084/</li>
 </ul>	
 
+<h3>Please find the following details pertaining to the FSD final project within the cloud lab VM:</h3>
+<ul>
+<li>The entire project code base is present in the path C:\Users\Admin\git\FSD-SBA-FINAL-PROJECT\</li>
+<li>The code base is opened in the STS & VS Code IDE.</li>
+<li>The project jar has been successfully deployed locally through command prompt.</li>
+<li>The application is running based on the local database instance created using XAMPP control panel whose URL(phpMyAdmin) is opened in Google Chrome.</li>
+<li>The project URL(https://localhost:8084) is also opened in Google Chrome.</li>
+</ul>	
+
 <h3>Local Deployment Commands:</h3>
 <ul>
 <li>Spring boot in projectmanager-server folder: spring-boot:run</li>
